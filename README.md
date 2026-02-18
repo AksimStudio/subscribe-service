@@ -1,6 +1,6 @@
 ## REST-сервис , запуск сервиса
 ```bash
-git clone https://github.com/yourusername/subscribe-service.git
+git clone https://github.com/AksimStudio/subscribe-service.git
 cd subscribe-service
 
 # Сборка и запуск контейнеров
